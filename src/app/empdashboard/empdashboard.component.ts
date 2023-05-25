@@ -29,7 +29,9 @@ export class EmpdashboardComponent implements OnInit {
 
   clickAddEmp() {
     this.formValue.reset();
+
     this.showadd = true;
+
     this.showupdate = false;
   }
 
