@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "Name": "nazaaaaaaa",
+      "email": "hbqifbijsebguiwaebtw",
+      "salary": "99999999999999999"
+    },
+    {
+      "id": 4,
+      "Name": "agjs",
+      "email": "bsha@gsj.bbd",
+      "salary": "008888222"
+    },
+    {
+      "id": 5,
+      "Name": "tasneem",
+      "email": "alikapa@hdhdje.com",
+      "salary": "9999999888888888"
+    }
+  ],
+  "signup": [
+    {
+      "fullname": "dtfghj",
+      "mobile": 23456,
+      "email": "sdfgh@efgh.nnn",
+      "password": "dtryftughkjn",
+      "id": 1
+    },
+    {
+      "fullname": "abdeali",
+      "mobile": 123445678,
+      "email": "alikapa@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "fullname": "tasneem",
+      "mobile": 123445678,
+      "email": "ttkapadia@gmail.com",
+      "password": "12345678",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
